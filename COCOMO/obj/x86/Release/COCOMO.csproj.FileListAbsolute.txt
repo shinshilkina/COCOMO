@@ -1,0 +1,14 @@
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\bin\Release\COCOMO.exe
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\bin\Release\COCOMO.pdb
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\Interop.Acrobat.dll
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\Interop.AcroPDFLib.dll
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.csproj.ResolveComReference.cache
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.About.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.Form1.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.HELP.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.Properties.Resource1.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.Properties.Resources.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.csproj.GenerateResource.Cache
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.exe
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.pdb
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Release\COCOMO.Form2.resources

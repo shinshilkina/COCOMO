@@ -1,0 +1,159 @@
+c:\users\18201\documents\visual studio 2010\Projects\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+c:\users\18201\documents\visual studio 2010\Projects\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+c:\users\18201\documents\visual studio 2010\Projects\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+c:\users\18201\documents\visual studio 2010\Projects\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+c:\users\18201\documents\visual studio 2010\Projects\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+c:\users\18201\documents\visual studio 2010\Projects\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+c:\users\18201\documents\visual studio 2010\Projects\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+H:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+H:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+G:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+G:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+G:\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+G:\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+G:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+G:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+G:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+F:\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+F:\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+E:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+E:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+E:\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+E:\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+E:\COCOMO\COCOMO\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+E:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+E:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+H:\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+H:\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+H:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+H:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+H:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+H:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+H:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Help.resources
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+Z:\18201\Ковалева\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+Z:\18201\Ковалева\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+Z:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+S:\18201\Ковалева\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+S:\18201\Ковалева\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\Interop.Acrobat.dll
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\Interop.AcroPDFLib.dll
+S:\18201\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.HELP.resources
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\Interop.Acrobat.dll
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\Interop.AcroPDFLib.dll
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.HELP.resources
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+F:\учеба\програмное инженирия\Ковалева\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+F:\COCOMO\COCOMO\obj\x86\Debug\Interop.Acrobat.dll
+F:\COCOMO\COCOMO\obj\x86\Debug\Interop.AcroPDFLib.dll
+F:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+I:\COCOMO\COCOMO\obj\x86\Debug\Interop.Acrobat.dll
+I:\COCOMO\COCOMO\obj\x86\Debug\Interop.AcroPDFLib.dll
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+I:\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+I:\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.HELP.resources
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+I:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+C:\COCOMO\COCOMO\obj\x86\Debug\Interop.Acrobat.dll
+C:\COCOMO\COCOMO\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+C:\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+C:\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.HELP.resources
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+C:\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\Interop.Acrobat.dll
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\Interop.AcroPDFLib.dll
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.HELP.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+S:\18501\Елисеев А.l\тырымпырым\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form2.resources
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+E:\ДЕМОН\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+E:\ДЕМОН\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form2.resources
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.HELP.resources
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+E:\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.ResolveComReference.cache
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.pdb
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\bin\Debug\COCOMO.exe
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\bin\Debug\COCOMO.pdb
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csprojResolveAssemblyReference.cache
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.About.resources
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form1.resources
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form2.resources
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.HELP.resources
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resource1.resources
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Properties.Resources.resources
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\bin\Debug\COCOMO.exe.manifest
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\bin\Debug\COCOMO.application
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.exe.manifest
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.application
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.g.resources
+C:\Users\Ася\Desktop\универ\5 семестр\ДЕМОН\COCOMO\COCOMO\obj\x86\Debug\COCOMO.Form3.resources
